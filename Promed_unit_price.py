@@ -8,7 +8,7 @@ Created on Thu Aug 13 17:38:20 2020
 import os
 import pandas as pd
 
-os.chdir("C:\\Users\\labbi\\OneDrive\\Liz\\Brandeis\\Promed\\DATA IMPORTACIONES")
+os.chdir(".\\DATA IMPORTACIONES")
 Promed_data = pd.read_csv('Promed_data_whole_version1.csv',encoding = "ISO-8859-1",low_memory=False)
 
 def unit_price_cal(Promed_data):
