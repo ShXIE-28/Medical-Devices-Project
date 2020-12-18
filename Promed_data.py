@@ -14,7 +14,7 @@ import collections
 from googletrans import Translator
 import datetime
 from forex_python.converter import CurrencyRates
-os.chdir("C:\\Users\\labbi\\OneDrive\\Liz\\Brandeis\\Promed\\DATA IMPORTACIONES")
+os.chdir(".\\DATA IMPORTACIONES")
 
 def count_col(country):
     '''
