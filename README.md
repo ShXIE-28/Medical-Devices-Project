@@ -1,5 +1,6 @@
 # Medical-Devices-Project
 
+### Brief Introduction
 _Due to company privacy, the data results in this repository is hidden._
 
 The purpose of this project is to built a structure of medical device data wrangling and plotting using python and Tableau dashboards. The results can be statistical evidences on market share comparison and help company make decision on business expand.
@@ -32,6 +33,8 @@ Here I will explain key variables in the dataset.
     Latitude Pais: the latitude of the import country(Pais)
 
 ____
+### Code file
 Promed_data.py is the process of data wrangling. Promed_unit_price.py is the calculation of unit price.
 
+### Dashboard display
 Please go to Report.pdf to see Tableau dashboards.
