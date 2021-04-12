@@ -2,7 +2,6 @@
 """
 Created on Thu Aug 13 17:38:20 2020
 
-@author: Liz
 """
 
 import os
