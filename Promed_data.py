@@ -2,7 +2,6 @@
 """
 Created on Fri Jul 24 11:45:50 2020
 
-@author: Promed Team
 """
 
 import os
